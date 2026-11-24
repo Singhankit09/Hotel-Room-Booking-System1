@@ -1,5 +1,4 @@
 import os
-#Ankit SIngh
 
 # Room details stored in a dictionary
 rooms = {
